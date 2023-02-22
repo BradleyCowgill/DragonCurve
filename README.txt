@@ -21,7 +21,7 @@ Alternatively, the DragonCurve.exe can be ran with no dependencies.
 
 ## Usage
 
-Upon running the program, the user will be prompted to input an integer value for the desired iteration number. The program will then generate the fractal based on this input and display the resulting plot. The console will also output the peak and valley pattern in text format to the console window. When finished looking at the visualizations, the user can close the matplotlib window and press enter within the console window to end the program.
+Upon running the program, the user will be prompted to input an integer value for the desired iteration number. The program will then generate the fractal based on this input and display the resulting plot. The console will also output the peak and valley pattern in text format to the console window. The Matplotlib plot can be used to zoom in on curve, which becomes interesting at larger iterations. When finished looking at the visualizations, the user can close the Matplotlib window and press enter within the console window to end the program.
 
 Note that for very large iteration numbers (greater than 18), processing times may be considerable on some computers due to the exponential nature of the fractal.
 
