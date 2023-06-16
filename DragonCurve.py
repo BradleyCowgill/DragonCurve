@@ -1,5 +1,5 @@
 # This program recursively generates and displays the user defined nth iteration (iteration_num) dragon curve fractal.
-# The algorithm is intended to be constructive on previous iterations, they are certainly faster ways of achieving a
+# The algorithm is intended to be constructive on previous iterations, there are certainly faster ways of achieving a
 # similar final result. Note the user input value can result in large processing times for iteration_num greater
 # than 18 on some computers due to the exponential nature of the fractal.
 #
